@@ -3,6 +3,7 @@
 Check list of what I learned in this project:
 
 Important concepts:
+
 states ✔️
 components ✔️
 properties ✔️
